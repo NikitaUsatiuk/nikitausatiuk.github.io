@@ -1463,9 +1463,9 @@
 }
 
 .u-section-5 .u-shape-1 {
-  width: 1503px;
+  width: 1051px;
   height: 597px;
-  margin: 166px -181px 0;
+  margin: 166px auto 0;
 }
 
 .u-section-5 .u-text-1 {
@@ -1523,8 +1523,6 @@
 @media (max-width: 1199px) {
   .u-section-5 .u-shape-1 {
     width: 940px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-5 .u-text-1 {
@@ -4316,6 +4314,7 @@
   animation-duration: 1000ms;
   line-height: 28.8px;
   text-align: left;
+  font-weight: 900;
   margin: 14px 34px 0 789px;
 }
 
