@@ -36741,15 +36741,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1rem;
+  font-weight: normal;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -34px;
-  }
-
-  .u-header .u-nav-2 {
-    font-weight: normal;
   }
 }
 @media (max-width: 991px) {
